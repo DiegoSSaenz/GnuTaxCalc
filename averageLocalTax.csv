@@ -1,0 +1,101 @@
+state,type,rate,bracket
+"Alabama (a, f)",single,0.0019,10000000000
+"Alabama (a, f)",joint,0.0019,10000000000
+Alaska,single,0,10000000000
+Alaska,joint,0,10000000000
+Arizona,single,0,10000000000
+Arizona,joint,0,10000000000
+"Arkansas (d, e)",single,0.0006,10000000000
+"Arkansas (d, e)",joint,0.0006,10000000000
+"California (a, e)",single,0,10000000000
+"California (a, e)",joint,0,10000000000
+"Connecticut (a, t)",single,0,10000000000
+"Connecticut (a, t)",joint,0,10000000000
+Delaware (v),single,0.0016,10000000000
+Delaware (v),joint,0.0016,10000000000
+Florida,single,0,10000000000
+Florida,joint,0,10000000000
+Georgia,single,0,10000000000
+Georgia,joint,0,10000000000
+Hawaii (w),single,0,10000000000
+Hawaii (w),joint,0,10000000000
+Idaho (e),single,0,10000000000
+Idaho (e),joint,0,10000000000
+Illinois,single,0,10000000000
+Illinois,joint,0,10000000000
+Indiana,single,0.0116,10000000000
+Indiana,joint,0.0116,10000000000
+Iowa (f),single,0.003,10000000000
+Iowa (f),joint,0.003,10000000000
+Kansas,single,0,10000000000
+Kansas,joint,0,10000000000
+Kentucky,single,0.0076,10000000000
+Kentucky,joint,0.0076,10000000000
+Louisiana (f),single,0,10000000000
+Louisiana (f),joint,0,10000000000
+Maine (e),single,0,10000000000
+Maine (e),joint,0,10000000000
+Maryland,single,0.0298,10000000000
+Maryland,joint,0.0298,10000000000
+Mass.,single,0,10000000000
+Mass.,joint,0,10000000000
+Michigan,single,0.0044,10000000000
+Michigan,joint,0.0044,10000000000
+Minn.,single,0,10000000000
+Minn.,joint,0,10000000000
+Mississippi,single,0,10000000000
+Mississippi,joint,0,10000000000
+Missouri (f),single,0.0012,10000000000
+Missouri (f),joint,0.0012,10000000000
+"Montana (a, e, f)",single,0,10000000000
+"Montana (a, e, f)",joint,0,10000000000
+Nebraska,single,0,10000000000
+Nebraska,joint,0,10000000000
+Nevada,single,0,10000000000
+Nevada,joint,0,10000000000
+New Hampshire (c),single,0,10000000000
+New Hampshire (c),joint,0,10000000000
+New Jersey,single,0.0009,10000000000
+New Jersey,joint,0.0009,10000000000
+New Mexico,single,0,10000000000
+New Mexico,joint,0,10000000000
+New York,single,0.017,10000000000
+New York,joint,0.017,10000000000
+North Carolina,single,0,10000000000
+North Carolina,joint,0,10000000000
+North Dakota (e),single,0,10000000000
+North Dakota (e),joint,0,10000000000
+"Ohio (a, e)",single,0.0182,10000000000
+"Ohio (a, e)",joint,0.0182,10000000000
+Oklahoma (a),single,0,10000000000
+Oklahoma (a),joint,0,10000000000
+"Oregon (a, e, f, j)",single,0.0036,10000000000
+"Oregon (a, e, f, j)",joint,0.0036,10000000000
+Pennsylvania,single,0.0125,10000000000
+Pennsylvania,joint,0.0125,10000000000
+Rhode Island (e),single,0,10000000000
+Rhode Island (e),joint,0,10000000000
+South Dakota,single,0,10000000000
+South Dakoa,joint,0,10000000000
+South Carolina (e),single,0,10000000000
+South Carolina (e),joint,0,10000000000
+Tenn.(c),single,0,10000000000
+Tenn.(c),joint,0,10000000000
+Texas,single,0,10000000000
+Texas,joint,0,10000000000
+Utah,single,0,10000000000
+Utah,joint,0,10000000000
+Vermont,single,0,10000000000
+Vermont,joint,0,10000000000
+Virginia,single,0,10000000000
+Virginia,joint,0,10000000000
+Washington,single,0,10000000000
+Washington,joint,0,10000000000
+West Virginia (a),single,0,10000000000
+West Virginia (a),joint,0,10000000000
+Wisconsin (e),single,0,10000000000
+Wisconsin (e),joint,0,10000000000
+Wyoming,single,0,10000000000
+Wyoming,joint,0,10000000000
+D.C.,single,0,10000000000
+D.C.,joint,0,10000000000
